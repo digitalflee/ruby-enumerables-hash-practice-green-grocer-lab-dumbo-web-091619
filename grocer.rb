@@ -20,7 +20,7 @@ end
 
 
 
-=begin def apply_coupons(items, coupons)
+def apply_coupons(items, coupons)
 
 
 end
@@ -36,5 +36,5 @@ end
 def checkout(cart, coupons)
 
 end
-=end 
+
 
