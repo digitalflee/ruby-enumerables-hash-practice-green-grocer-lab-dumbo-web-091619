@@ -32,6 +32,7 @@ coupons.each do |coupon|
       cart[item][:count] -= coupon[:num]
     end 
   end
+  cart 
 end
 
 
