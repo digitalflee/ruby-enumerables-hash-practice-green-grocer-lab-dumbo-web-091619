@@ -1,6 +1,8 @@
+
+
 def consolidate_cart(cart)
-	cons_cart = cart.reduce({}) do |items, item_stats|
-	 if item_stats[0] != item_stats[1]
+	final_hash = {} 
+	cart.each do |element_hash|
 	end 
 end
 
