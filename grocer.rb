@@ -20,7 +20,7 @@ end
 
 
 
-def apply_coupons(items, coupons)
+def apply_coupons(cart, coupons)
 
 
 end
